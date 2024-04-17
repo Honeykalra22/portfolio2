@@ -65,8 +65,8 @@ const Home = () => {
                 </ul>
             </div>
 
-            <div className="mb-16">
-                <a href="https://drive.google.com/file/d/1ty5NAKCD1w4AFAkYepsyZ1xOrqWqaUk-/view?usp=drive_link" target="_blank" className="bg-red-600 px-4 py-2 font-semibold rounded-sm text-lg">My Resume</a>
+            <div className="mb-16 hover:scale-105">
+                <a href="https://drive.google.com/file/d/1ty5NAKCD1w4AFAkYepsyZ1xOrqWqaUk-/view?usp=drive_link" target="_blank" className="bg-red-600 px-4 py-2 font-semibold rounded-sm text-lg hover:bg-red-800 ">My Resume </a>
             </div>
 
         </div>
