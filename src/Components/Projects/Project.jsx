@@ -28,7 +28,7 @@ const Project = () => {
                     <h1 className=" uppercase mb-4 text-lg text-red-600 underline">password generator app</h1>
                     <a href="https://github.com/Honeykalra22/password-generator" target="_blank"><img className="w-[450px] h-[240px] mb-5 hover:scale-105" src={password} alt="netflix" /></a>
                     <p className="text-lg mb-2 capitalize text-center">
-                        developed a robust password generator application using react for dynamic user interface and tailwind css for streamlined styling, ensuring both functionality and aesthetic appeal meet modern standards. 
+                        developed a password generator application using react for dynamic user interface and tailwind css for streamlined styling, ensuring both functionality and aesthetic appeal meet modern standards. 
                     </p>
                 </div>
             </div>
