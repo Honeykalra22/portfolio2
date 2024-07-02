@@ -6,7 +6,7 @@ import password from '../../assets/password.png'
 const Project = () => {
     return (
         <div className=" bg-gray-900 text-white flex flex-col items-center gap-10 pt-5 pb-20">
-            <h1 className=" text-3xl sm:text-[50px] uppercase underline font-bold my-10">my projects</h1>
+            <h1 className=" text-3xl sm:text-[50px] uppercase underline font-bold my-10 selection:bg-gray-700 selection:text-white">my projects</h1>
             <div className=" flex flex-wrap justify-around items-center">
                 <div className=" flex flex-col items-center text-center mx-2 lg:w-1/4">
                     <h1 className=" uppercase mb-4 text-lg text-red-600 underline">netflix home page</h1>
