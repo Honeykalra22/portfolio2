@@ -4,10 +4,10 @@ const Home = () => {
     return (
         <div className=" bg-black text-white w-full flex flex-col items-center justify-center">
             <div className=" mt-16 mb-5">
-                <h1 className="text-3xl sm:text-[60px] uppercase font-semibold selection:bg-gray-500 selection:text-black underline underline-offset-8">hitesh kalra</h1>
+                <h1 className="text-3xl sm:text-[50px] uppercase font-semibold selection:bg-gray-500 selection:text-black  underline-offset-8 tracking-[16px] md:tracking-[35px]">hitesh kalra</h1>
             </div>
 
-            <div className=" mt-10">
+            <div className=" mt-10"> 
                 <ul className=" flex justify-evenly gap-4 sm:gap-8 text-sm sm:text-lg">
                     <li className=" text-blue-400 underline cursor-none">Programmer</li>
                     <li className=" text-blue-400 underline cursor-none">Web Developer</li>
@@ -53,7 +53,7 @@ const Home = () => {
 
 
             <div className="mb-16 hover:scale-100">
-                <a href="https://drive.google.com/file/d/1D-l7mSVuDY6t96od5C3WWPQj0mU4avRN/view?usp=sharing" target="_blank" className="bg-red-600 px-20 py-3 font-semibold rounded-full text-xl hover:bg-red-800 ">My Resume </a>
+                <a href="https://drive.google.com/file/d/1D-l7mSVuDY6t96od5C3WWPQj0mU4avRN/view?usp=sharing" target="_blank" className="bg-red-600 px-20 py-3 font-semibold rounded-full text-xl hover:bg-red-800">My Resume </a>
             </div>
 
         </div>
