@@ -15,6 +15,7 @@ const Project = () => {
                         crafted a dynamic netflix homepage replica using HTML for structure, CSS for styling, and javaScript for interactive elements, ensuring a user-friendly and visually engaging browsing experience.
                     </p>
                 </div>
+                <div className="h-[1px] bg-white my-5 w-full md:hidden"></div>
 
                 <div className=" flex flex-col items-center mx-2 lg:w-1/4">
                     <h1 className=" uppercase mb-4 text-lg text-red-600 underline">e-commerce website</h1>
@@ -23,6 +24,7 @@ const Project = () => {
                         designed a modern e-commerce website UI leveraging react for seamless interactivity and tailwind css for efficient styling, ensuring a responsive and visually appealing user experience.
                     </p>
                 </div>
+                <div className="h-[1px] bg-white my-5 w-full md:hidden"></div>
 
                 <div className=" flex flex-col items-center mx-2 lg:w-1/4">
                     <h1 className=" uppercase mb-4 text-lg text-red-600 underline">password generator app</h1>
@@ -31,6 +33,7 @@ const Project = () => {
                         developed a password generator application using react for dynamic user interface and tailwind css for streamlined styling, ensuring both functionality and aesthetic appeal meet modern standards. 
                     </p>
                 </div>
+                <div className="h-[1px] bg-white my-5 w-full md:hidden"></div>
             </div>
         </div>
     )
