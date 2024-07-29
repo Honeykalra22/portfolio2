@@ -30,7 +30,7 @@ const Skills = () => {
                     <img className="w-20 h-20 sm:w-32 sm:h-32" src={tcss} alt="" />
                     <img className="w-20 h-20 sm:w-32 sm:h-32" src={react2} alt="" />
                 </div>
-                <p className=" text-black text-center flex justify-center text-xl mb-5">My favorite languages for system programming and front-end development</p>
+                <p className=" text-black text-center flex justify-center text-xl mb-5">My favorite front-end frameworks for front-end development</p>
             </div>
             <hr />
             <div className="bg-slate-500 mx-4">
@@ -40,7 +40,7 @@ const Skills = () => {
                     <img className="w-20 h-20 sm:w-32 sm:h-32" src={github} alt="" />
                     <img className="w-20 h-20 sm:w-32 sm:h-32" src={vs} alt="" />
                 </div>
-                <p className=" text-black text-center flex justify-center text-xl pb-3">My favorite languages for system programming and front-end development</p>
+                <p className=" text-black text-center flex justify-center text-xl pb-3">My favorite programming tools for system programming and front-end development</p>
             </div>
         </div>
     )
