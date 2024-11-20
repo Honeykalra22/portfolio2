@@ -53,7 +53,7 @@ const Home = () => {
 
 
             <div className="mb-16 hover:scale-100">
-                <a href="https://drive.google.com/file/d/1D-l7mSVuDY6t96od5C3WWPQj0mU4avRN/view?usp=sharing" target="_blank" className="bg-red-600 px-20 py-3 font-semibold rounded-full text-xl hover:bg-red-800">My Resume </a>
+                <a href="https://drive.google.com/file/d/1kefQ9DhSYn9yiJTuO1frP1xN9ycKuTch/view?usp=sharing" target="_blank" className="bg-red-600 px-20 py-3 font-semibold rounded-full text-xl hover:bg-red-800">My Resume </a>
             </div>
 
         </div>
